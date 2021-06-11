@@ -1,2 +1,2 @@
 # 启动conda
-source /workspace/Code1/anaconda/bin/activate
+source /workspace/setting/anaconda3/bin/activate
